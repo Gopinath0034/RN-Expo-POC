@@ -11,7 +11,7 @@ import { View, StyleSheet, ActivityIndicator } from "react-native";
 
 // PLUGINS //
 
-/** Common Loader */
+/** Common  Loader */
 const Loader: React.FC<unknown> = () => {
 	return (
 		<View style={styles.container}>
